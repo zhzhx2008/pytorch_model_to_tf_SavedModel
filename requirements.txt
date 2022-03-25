@@ -1,3 +1,5 @@
+torch==1.4.0+cpu
+torchvision==0.5.0+cpu
 onnx==1.11.0
 onnx-tf==1.10.0
 tensorflow==2.2.0
