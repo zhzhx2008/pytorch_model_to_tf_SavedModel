@@ -1,0 +1,5 @@
+onnx==1.11.0
+onnx-tf==1.10.0
+tensorflow==2.2.0
+tensorflow-addons==0.10.0
+tensorflow-probability==0.10.1
